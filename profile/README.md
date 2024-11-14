@@ -7,7 +7,7 @@ NAPCORE is dedicated to cooperation of mobility data platforms. We focus on Nati
 To get involved, check out our contributing guidelines and code of conduct.
 
 ## Contact Us
-- **Website**: [https://napcore.org](https://napcore.eu/)
+- **Website**: [https://napcore.eu](https://napcore.eu/)
 - **Email**: napcore@bast.de
 - **LinkedIn**: https://www.linkedin.com/groups/12432452/
 - **Twitter**: @NAPCORE
